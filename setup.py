@@ -30,6 +30,7 @@ setup(
     install_requires=["tqdm", "click"],
     packages=["past_time"],
     zip_safe=True,
+    test_suite="tests",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Environment :: Console",
