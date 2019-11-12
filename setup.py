@@ -28,6 +28,7 @@ setup(
     author_email="fabian@affolter-engineering.ch",
     license="MIT",
     install_requires=["tqdm", "click"],
+    tests_require=["freezegun"],
     packages=["past_time"],
     zip_safe=True,
     test_suite="tests",
