@@ -13,6 +13,8 @@ The tool is available from the `Python Package Index <https://pypi.python
 
     $ pip3 install past-time
 
+Installation on Fedora and CentOS/RHEL with EPEL.
+
 .. code:: bash
 
     $ dnf -y install past-time
