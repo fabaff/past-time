@@ -13,6 +13,10 @@ The tool is available from the `Python Package Index <https://pypi.python
 
     $ pip3 install past-time
 
+.. code:: bash
+
+    $ dnf -y install past-time
+
 Usage
 -----
 
