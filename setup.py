@@ -15,7 +15,7 @@ with open(os.path.join(here, "README.rst"), encoding="utf-8") as f:
 
 setup(
     name="past_time",
-    version="0.1.0",
+    version="0.2.1",
     description="Visualizer for the days of the year",
     long_description=long_description,
     url="https://github.com/fabaff/time-past",
