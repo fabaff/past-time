@@ -35,17 +35,6 @@ Execute the command to get a visual representation of the year's progress.
 
     $ past-time now
 
-Development
------------
-
-For development is recommended to use a ``venv``.
-
-.. code:: bash
-
-    $ python3.6 -m venv .
-    $ source bin/activate
-    $ python3 setup.py develop
-
 License
 -------
 
