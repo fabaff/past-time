@@ -19,6 +19,13 @@ Installation on Fedora and CentOS/RHEL with EPEL.
 
     $ dnf -y install past-time
 
+For Nix or NixOS users is a package available. Keep in mind that the lastest releases might only
+be present in the ``unstable`` channel.
+
+.. code:: bash
+
+   $ nix-env -iA nixos.past-time
+
 Usage
 -----
 
