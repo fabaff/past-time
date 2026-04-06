@@ -1,16 +1,12 @@
-import click
+import cyclopts
 import tqdm
 from datetime import datetime
 from time import sleep
 
-
-@click.group()
-@click.version_option()
-def cli():
-    """The command-line interface for past-time."""
+cli = cyclopts.App(help="The command-line interface for past-time.")
 
 
-@cli.command("now")
+@cli.command
 def now():
     """Show the data according the current day."""
     days = Days()
