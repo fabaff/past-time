@@ -24,8 +24,8 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.13"
+cyclopts = "*"
 tqdm = "*"
-click = "*"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^8.0.2"
