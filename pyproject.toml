@@ -6,8 +6,8 @@ authors = ["Fabian Affolter <fabian@affolter-engineering.ch>"]
 readme = "README.rst"
 license="MIT"
 keywords = ["time", "days", "year", "past"]
-homepage = "https://github.com/audiusGmbH/audiness"
-repository = "https://github.com/audiusGmbH/audiness"
+homepage = "https://github.com/fabaff/past-time"
+repository = "https://github.com/fabaff/past-time"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Environment :: Console",
