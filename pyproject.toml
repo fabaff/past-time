@@ -28,7 +28,7 @@ cyclopts = "*"
 tqdm = "*"
 
 [tool.poetry.group.test.dependencies]
-pytest = "^8.0.2"
+pytest = "^9.0.3"
 freezegun = "^1.4.0"
 
 [tool.poetry.scripts]
